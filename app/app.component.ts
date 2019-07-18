@@ -15,7 +15,7 @@ export class AppComponent {
       projectId: "bookcatalog-1473e",
       storageBucket: "",
       messagingSenderId: "596588004159",
-      appId: "1:596588004159:web:4cab6e426b225772"'
+      appId: "1:596588004159:web:4cab6e426b225772"
     };
     firebase.initializeApp(config);
   }
